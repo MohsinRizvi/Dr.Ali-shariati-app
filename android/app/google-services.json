@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374592139939",
+    "firebase_url": "https://dralishariatiapp.firebaseio.com",
+    "project_id": "dralishariatiapp",
+    "storage_bucket": "dralishariatiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374592139939:android:b13796aedab83f0fa5c516",
+        "android_client_info": {
+          "package_name": "com.example.dr_ali_shariati_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374592139939-f8kiie5kdd97tkokqb65blc9tppcmp1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6FKbB12IoJCfsB4B7f1Wox8j90jah1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374592139939-f8kiie5kdd97tkokqb65blc9tppcmp1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
